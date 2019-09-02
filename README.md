@@ -11,4 +11,4 @@ The repository has the following folders:
 * mavd --> Main source files for data generation, network model and callbacks.
 * exps --> Folders with files of each experiment (weights, logs, results).
 * notebooks --> Jupyter notebooks for running the experiments.
-* utils --> Some useful script to work with the dataset.
+* utils --> Some useful scripts to work with the dataset.
