@@ -2,7 +2,7 @@
 
 This repository includes the code and notebooks for generating the data and running the experiments reported in
 
-Pablo Zinemanas, Pablo Cancela and Martín Rocamora. MAVD: A DATASET FOR SOUND EVENT DETECTION IN URBAN ENVIRONMENTS. DCASE 2019 Workshop.
+Pablo Zinemanas, Pablo Cancela and Martín Rocamora. MAVD: a dataset for sound event detection in urban environments. DCASE 2019 Workshop.
 
 ## Organization of the repository
 
